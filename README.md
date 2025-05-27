@@ -13,4 +13,4 @@
 - `/images` — Visualizations: ROC curves, feature importance, correlation heatmaps.
 - `/notebooks` — Full data analysis and model building notebooks.
 - `/src` — Python scripts with reusable functions.
-- `/outputs` — Model outputs and evaluation reports.
+
