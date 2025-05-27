@@ -10,7 +10,18 @@
 
 ## Repository Structure
 - `/data` — Data files or instructions to obtain them.
-- `/images` — Visualizations: ROC curves, feature importance, correlation heatmaps.
+- `/Images` — Visualizations: ROC curves, feature importance, correlation heatmaps.
 - `/notebooks` — Full data analysis and model building notebooks.
 - `/src` — Python scripts with reusable functions.
 
+
+## Exploratory Data Analysis
+
+
+<p align="center">
+  <img src="Images/descriptives1.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Images/descriptives2.png" width="600"/>
+</p>
