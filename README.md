@@ -2,6 +2,7 @@
 
 ## Overview
 - This project explores how a series of behaviors related to digital presence impact academic performance.
+- Does social media use impact academic performance?
 
 ##  Goals
 - Conduct exploratory data analysis on student behavior data.
@@ -16,8 +17,9 @@
 
 
 ## Exploratory Data Analysis
-- Mostsly undergradute and graduate students responded the research.
+- Mostly undergradute and graduate students 19 to 22 yrs old responded the research.
 - Equal number of male and female students distributed in 'single', 'in a relationship' with minority group 'it's complicated'
+- Serious mental health impacts and social media addicion reported
 
 <p align="center">
   <img src="Images/desciptives1.png" width="600"/>
