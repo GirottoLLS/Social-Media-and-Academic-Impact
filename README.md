@@ -30,15 +30,29 @@
   <img src="Images/descriptives2.png" width="600"/>
 </p>
 
-- Mental health increaes with age, lowest values on younger students.
-- Addiction scores decreases with age, highest scores on younger students.
-- Tendency show possible overdependency trend on younger students that slightly heals each following year.
 
+## Models and Results
 
+### 1. Logistic Regression (LASSO)
+- Baseline interpretable model.
+- Clear and easy mathematical representation.
+- AUC: **0.966**
 <p align="center">
-  <img src="Images/mentalhealthage.png" width="600"/>
+  <img src="Images/lassoonlydemo.png" width="600"/>
 </p>
 
+### 2. Random Forest
+- Captures non-linear patterns.
+- Tends to assign broader importance across features.
+- AUC: **0.977**
 <p align="center">
-  <img src="Images/addictionage.png" width="600"/>
+  <img src="Images/rfonlydemo.png" width="600"/>
+</p>
+
+### 3. XGBoost
+- Gradient-boosted trees.
+- Highly efficient, but concentrates feature importance strongly.
+- AUC: **0.965**
+<p align="center">
+  <img src="Images/xgbonlydemo.png" width="600"/>
 </p>
