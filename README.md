@@ -21,6 +21,7 @@
 - Equal number of male and female students distributed in 'single', 'in a relationship' with minority group 'it's complicated'
 - High daily usage of social media with serious mental health impacts and social media addicion reported
 
+
 <p align="center">
   <img src="Images/desciptives1.png" width="600"/>
 </p>
@@ -32,6 +33,7 @@
 - Mental health increaes with age, lowest values on younger students.
 - Addiction scores decreases with age, highest scores on younger students.
 - Tendency show possible overdependency trend on younger students that slightly heals each following year.
+
 
 <p align="center">
   <img src="Images/mentalhealthage.png" width="600"/>
