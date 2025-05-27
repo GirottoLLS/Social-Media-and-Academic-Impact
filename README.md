@@ -16,10 +16,11 @@
 
 
 ## Exploratory Data Analysis
-
+- Mostsly undergradute and graduate students responded the research.
+- Equal number of male and female students distributed in 'single', 'in a relationship' with minority group 'it's complicated'
 
 <p align="center">
-  <img src="Images/descriptives1.png" width="600"/>
+  <img src="Images/desciptives1.png" width="600"/>
 </p>
 
 <p align="center">
