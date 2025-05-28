@@ -59,8 +59,8 @@
 
 ## Key Insights
 
-- Models with only demographic variables (not subjetive) achieve surprisingly high performance, suggesting strong underlying patterns in usage behavior.
-- Removing subjective variables like *Addiction Score* and *Conflicts* reduces overfitting but maintains good predictive power.
+- Models with only measurable demographic variables achieve surprisingly high performance, suggesting strong underlying patterns in usage behavior.
+- Removing subjective variables like "Addiction Score" and "Conflicts over Social Media" reduces overfitting but maintains good predictive power.
 - Variables like sleep hours, daily usage, and main platform are highly predictive to negative impact on academic performance.
 
 
