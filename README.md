@@ -51,7 +51,7 @@
 
 ### 3. XGBoost
 - Gradient-boosted trees.
-- Highly efficient, but concentrates feature importance strongly.
+- Efficient but tends to concentrate feature importance.
 - AUC: **0.965**
 <p align="center">
   <img src="Images/xgbonlydemo.png" width="600"/>
